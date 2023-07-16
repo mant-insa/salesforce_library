@@ -1,0 +1,11 @@
+{
+    "name": "salesforce/salesforce_api",
+    "description": "Salesforce simple API library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Salesforce\\": "Salesforce/",
+            "Utils\\": "Utils/"
+        }
+    }
+}
